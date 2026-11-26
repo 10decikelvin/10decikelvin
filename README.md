@@ -1,4 +1,6 @@
-## Hi there 👋
+# 1 Kelvin = 10decikelvin
+- ML @ Artificial Societies - post-training language models to mimic human behavior, serving Fortune 50 customers in prod
+- Silver medalist at 2023 International Physics Olympiad
 
 <!--
 **10decikelvin/10decikelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
