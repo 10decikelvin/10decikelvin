@@ -1,4 +1,4 @@
-- ML @ Artificial Societies - post-training language models to mimic human behavior, serving Fortune 50 customers in prod
+- ML @ Artificial Societies - post-training language models to mimic societal behavior, serving Fortune 50 customers in prod
 - Silver medalist at 2023 International Physics Olympiad
 
 <!--
